@@ -1,7 +1,6 @@
 ### Olá, Sou o David Oliveira!
 
 
-- 🔭 Atualmente trabalho com Angular e Spring 
 - 🌱 Aprofundando em JavaScript
 - 📫 Contate-me pelo email: david.ods.2002@gmail.com  
 
